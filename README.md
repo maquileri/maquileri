@@ -32,13 +32,9 @@
 
 <div>
 <a href="https://github.com/maquileri">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maquileri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maquileri&layout=compact&langs_count=7&theme=dracula"/>  
+<img height="142em" src="https://github-readme-stats.vercel.app/api?username=maquileri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maquileri&layout=compact&langs_count=7&theme=dracula"/>  
 </div>
 
-#  
-          
-![Snake animation](https://github.com/nmaquileri/maquileri/blob/output/github-contribution-grid-snake.svg)
           
 
           
